@@ -5,3 +5,8 @@ user:
 app:
     resource: '@AppBundle/Controller/'
     type: annotation
+
+
+test_github:
+    resource: '@AppBundle/Controller/'
+    type: annotation
