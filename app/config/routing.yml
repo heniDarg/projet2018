@@ -7,6 +7,4 @@ app:
     type: annotation
 
 
-test_github:
-    resource: '@AppBundle/Controller/'
-    type: annotation
+
